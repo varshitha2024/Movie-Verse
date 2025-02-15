@@ -28,7 +28,7 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox).
 
 1. Download or clone the repository:
     ```bash
-    git clone https://github.com/your-username/movie-verse.git
+    git clone https://github.com/varshitha2024/movie-verse.git
     ```
 
 2. Open the `index.html` file in your browser.
