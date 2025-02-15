@@ -56,7 +56,7 @@ The project uses the following endpoints from the TMDb API:
 
 ## About Me
 
-**Varshitha Vaddi** is a passionate software developer.
+I'm **Varshitha Vaddi** a passionate software developer.
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
